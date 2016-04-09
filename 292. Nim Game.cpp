@@ -1,4 +1,7 @@
 // 292. Nim Game
-bool canWinNim(int n) {
-    return n%4;
-}
+class Solution {
+public:
+    bool canWinNim(int n) {
+        return n%4;
+    }
+};
