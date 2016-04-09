@@ -13,7 +13,7 @@ public:
 			}
 			else
 			{
-				nums[i - zeroCount] = nums[i];
+				nums[i - zeroCount] = nums[i]; 
 			}
 		}
 
